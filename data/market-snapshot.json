@@ -1,0 +1,90 @@
+{
+  "updatedAt": "2026-09-03T22:40:00Z",
+  "source": "StonkFun snapshot",
+  "markets": [
+    {
+      "id": "xspy-sol",
+      "ticker": "xSPY",
+      "name": "SPDR S&P 500 ETF",
+      "quote": "SOL",
+      "price": 586.22,
+      "change24h": 1.42,
+      "marketCap": 26400000,
+      "volume24h": 1240000,
+      "liquidity": 480000,
+      "pool": "Raydium",
+      "address": "Live source pending",
+      "sparkline": [35, 38, 37, 42, 41, 45, 44, 50, 47, 54, 52, 60]
+    },
+    {
+      "id": "xtsla-sol",
+      "ticker": "xTSLA",
+      "name": "Tesla, Inc.",
+      "quote": "SOL",
+      "price": 346.14,
+      "change24h": -0.84,
+      "marketCap": 18900000,
+      "volume24h": 860000,
+      "liquidity": 392000,
+      "pool": "Raydium",
+      "address": "Live source pending",
+      "sparkline": [63, 58, 60, 56, 54, 57, 49, 51, 46, 48, 45, 42]
+    },
+    {
+      "id": "xaapl-sol",
+      "ticker": "xAAPL",
+      "name": "Apple Inc.",
+      "quote": "SOL",
+      "price": 232.11,
+      "change24h": 0.31,
+      "marketCap": 15600000,
+      "volume24h": 674000,
+      "liquidity": 318000,
+      "pool": "Raydium",
+      "address": "Live source pending",
+      "sparkline": [28, 29, 31, 30, 35, 34, 37, 36, 40, 42, 41, 44]
+    },
+    {
+      "id": "xnvda-sol",
+      "ticker": "xNVDA",
+      "name": "NVIDIA Corporation",
+      "quote": "SOL",
+      "price": 177.03,
+      "change24h": 2.48,
+      "marketCap": 14200000,
+      "volume24h": 1190000,
+      "liquidity": 288000,
+      "pool": "Raydium",
+      "address": "Live source pending",
+      "sparkline": [25, 28, 26, 34, 32, 37, 42, 40, 49, 47, 56, 61]
+    },
+    {
+      "id": "xcoin-sol",
+      "ticker": "xCOIN",
+      "name": "Coinbase Global",
+      "quote": "SOL",
+      "price": 327.58,
+      "change24h": 1.08,
+      "marketCap": 9800000,
+      "volume24h": 542000,
+      "liquidity": 251000,
+      "pool": "Raydium",
+      "address": "Live source pending",
+      "sparkline": [41, 40, 44, 43, 47, 49, 46, 51, 54, 55, 57, 59]
+    },
+    {
+      "id": "xmstr-sol",
+      "ticker": "xMSTR",
+      "name": "Strategy Inc.",
+      "quote": "SOL",
+      "price": 396.48,
+      "change24h": -1.32,
+      "marketCap": 7400000,
+      "volume24h": 421000,
+      "liquidity": 186000,
+      "pool": "Raydium",
+      "address": "Live source pending",
+      "sparkline": [62, 59, 63, 58, 61, 55, 57, 50, 53, 49, 47, 45]
+    }
+  ]
+}
